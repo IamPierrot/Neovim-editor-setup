@@ -2,7 +2,7 @@
 
 # Args: <nvim_install_dir> <config_repo> <xdg_base_dir>
 NVIM_PATH=${1:-"$HOME/.local/bin"}
-CONFIG_REPO=${2:-"https://github.com/yourusername/nvim-config.git"}
+CONFIG_REPO=${2:-"https://github.com/IamPierrot/My-Neovim-Config.git"}
 XDG_BASE=${3:-"$HOME/.nvim"}
 
 # Đặt XDG dirs

@@ -1,6 +1,6 @@
 param(
     [string]$nvimPath = "C:\neovim",
-    [string]$configRepo = "https://github.com/yourusername/nvim-config.git",
+    [string]$configRepo = "https://github.com/IamPierrot/My-Neovim-Config.git",
     [string]$xdgBase = "$env:LOCALAPPDATA\nvim-data"
 )
 
